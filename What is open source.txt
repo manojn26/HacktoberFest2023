@@ -1,0 +1,18 @@
+Open source : 
+The term open source refers to something people can modify and share because its design publicly accessible.
+
+Open source software : 
+Open source software is software with source code that anyone can inspect, modify, and enhance.
+
+Difference between opensource software and other type of software :
+Opensource software is different. It author make it source code available to others, who would like to view that code, copy it, learn from it, alter it.
+Ex : Libre office.
+Some software has source code that the only the person or team or organization who created it and they can maintain it, they can modify it. People call this kind of software closed source software. Only the original authors can legally copy, alter the software.
+Ex : Microsoft office, Adobe Photoshop.
+
+Why do people prefer using open source software ?
+1. Control : Many people prefer open source software because they have more control over that kind of software.
+2. Training : Because open source code is publicly accessible, students can easily study it as they learn to make better software. Students can also share their work with others, inviting comment and critique, as they develop their skills.
+3. Security :  Some people prefer open source software because they consider it more secure and stable than closed source software. And because so many programmers can work on a piece of open source software without asking for permission from original authors, they can fix, update, and upgrade open source software more quickly than they can closed source software.
+4. Stability : Many users prefer open source software to proprietary software for important, long-term projects.
+5. Community : Open source software often inspires a community of users and developers to form around it.
