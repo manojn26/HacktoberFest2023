@@ -1,0 +1,30 @@
+DDL Comands - Data Definition Language
+-----------------------------------------
+1. Create
+2. Alter
+3. Drop
+4. Truncate
+5. Rename
+
+DML Commands - Data Manipulation Language
+-------------------------------------------
+1. Insert
+2. Update
+3. Delete
+4. Merge
+
+DCL Commands - Data Control Language
+-------------------------------------
+1. Grant
+2. Rewoke
+
+TCL Commands - Transcation Control Language
+--------------------------------------------
+1. Commit
+2. Rollback
+3. Save Point
+
+DQL Commands - Data Query Language
+------------------------------------
+1. Select
+
