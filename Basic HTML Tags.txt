@@ -1,0 +1,35 @@
+HTML Heading Tags :-
+--------------------
+There are siz heading tags in HTML
+1. <h1>Heading 1</h1>
+2. <h2>Heading 2</h2>
+3. <h3>Heading 3</h3>
+4. <h4>Heading 4</h4>
+5. <h5>Heading 5</h5>
+6. <h6>Heading 6</h6>
+
+HTML Paragraph Tag :-
+---------------------
+The HTML <p> elements defines a paragraph
+
+HTML Hyper Links :-
+--------------------
+<a href="link_url">Click</a>
+
+HTML Images :-
+---------------
+<img src="image_path"/>
+
+HTML Lists :-
+---------------
+There are two types of Lists, Ordered List and Unordered List.
+1. <ul>
+      <li>Google</li>
+      <li>Bing</li>
+  </ul>
+
+2. <ol>
+      <li>Cofee</li>
+      <li>Tea</li>
+  </ol>
+
