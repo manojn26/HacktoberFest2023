@@ -1,0 +1,12 @@
+Ctrl + Shift + P                    Open command palette
+Ctrl + ,                            Open app settings
+Ctrl + k                            Display keyboard shortcuts
+Ctrl + N                            New file
+Ctrl + Shift + N                    New window
+Ctrl + f4                           Close file
+Ctrl + Shift + W                    Close window
+Ctrl + B                            Toggle sidebar visibility
+Ctrl + O                            Open file
+Ctrl + S                            Save file
+Ctrl + Shift + S                    Save file as
+Ctrl + K,S                          Save all files
