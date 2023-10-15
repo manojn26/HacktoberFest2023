@@ -1,0 +1,15 @@
+What is Node.js :-
+------------------
+-> Node.js is an open source server environment
+-> Node.js is free
+-> Node.js runs on varoius platforms (Windows, Linux, MacOS)
+
+Why Node.js :-
+----------------
+Node.js uses asynchrnous programming.
+Here is how Node.js hadles a file request.
+-> Send the task to the computers file system.
+-> Ready to handle next request.
+-> When the file system has opened and read the file, the server returns the content to the client.
+Node.js eliminates the waiting and simply continues with next request.
+Node.js runs single-threaded, non-blocking, asynchrnous programming which is very memory efficient.
